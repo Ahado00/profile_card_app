@@ -15,4 +15,4 @@ A profile card screen displaying:
 
 
 ### Screenshots:
-![image](https://github.com/user-attachments/assets/f75cc9f2-382c-49e8-9191-439b1e7ddb35) ![image](https://github.com/user-attachments/assets/7f8de5ff-977f-43cf-8594-153e24aa8af8)
+<p float="left"> <img src="https://github.com/user-attachments/assets/f75cc9f2-382c-49e8-9191-439b1e7ddb35" width="200"/> <img src="https://github.com/user-attachments/assets/7f8de5ff-977f-43cf-8594-153e24aa8af8" width="200"/> </p>

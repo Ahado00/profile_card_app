@@ -1,16 +1,18 @@
-# profile_card
+# Profile Card App
+## A simple Flutter app built as part of the Flutter class task.
 
-A new Flutter project.
 
-## Getting Started
+### Task Overview:
+**This project demonstrates basic navigation and UI building in Flutter:**
+**- Screen 1:**
+A home screen with a button labeled "Open My Profile", which navigates to the profile page.
 
-This project is a starting point for a Flutter application.
+**- Screen 2:**
+A profile card screen displaying:
+  -A CircleAvatar with a local image.
+  -The user's name and email in a clean layout.
+  -A second CircleAvatar that loads an image from a network URL.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots:
+![image](https://github.com/user-attachments/assets/f75cc9f2-382c-49e8-9191-439b1e7ddb35) ![image](https://github.com/user-attachments/assets/7f8de5ff-977f-43cf-8594-153e24aa8af8)

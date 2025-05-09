@@ -3,15 +3,14 @@
 
 
 ### Task Overview:
-**This project demonstrates basic navigation and UI building in Flutter:**
-#### **- Screen 1:**
-A home screen with a button labeled "Open My Profile", which navigates to the profile page.
-
-#### **- Screen 2:**
-A profile card screen displaying:
-  -A CircleAvatar with a local image.
-  -The user's name and email in a clean layout.
-  -A second CircleAvatar that loads an image from a network URL.
+#### **This project demonstrates basic navigation and UI building in Flutter:**
+##### **- Screen 1:**
+###### A home screen with a button labeled "Open My Profile", which navigates to the profile page.
+##### **- Screen 2:**
+###### A profile card screen displaying:
+###### -A CircleAvatar with a local image.
+###### -The user's name and email in a clean layout.
+###### -A second CircleAvatar that loads an image from a network URL.
 
 
 ### Screenshots:
